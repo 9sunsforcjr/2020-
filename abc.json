@@ -7,18 +7,9 @@
                 {
                     "text": "A. SARS-CoV"
                 },
-                {
-                    "text": "B. MERS-CoV"
-                },
-                {
-                    "text": "C. 2019-nCoV"
-                },
-                {
-                    "text": "D. SARI"
-                }
             ],
             "type": "textSelect",
-            "answer": 0,1,2,3,
+            "answer": 0,
             "explanation": {
                 "text": "新型冠状病毒是指以前从未在人类中发现的冠状病毒新毒株。2019年12月导致武汉暴发病毒性肺炎的病毒为新型冠状病毒，世界卫生组织将该病毒命名为2019-nCoV。"
             },
